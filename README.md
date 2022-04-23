@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Василаки Роман
+<h1>👋 Hi, I’m Василаки Роман </h1>
+
 - 👀 I’m interested in upgrade development skils
 - 🌱 I’m currently learning frontend development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on work as a developer
 - 📫 How to reach me realing29@gmail.com
+<p align="left"><img src="https://www.codewars.com/users/realing29/badges/large" alt="codewars-stats" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,10 +34,10 @@
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=realing29&show_icons=true&locale=en&layout=compact" alt="realing29" /></p>
-<br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=realing29&show_icons=true&locale=en" alt="realing29" /></p>
-<br/>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=realing29&show_icons=true&locale=en&layout=compact" alt="realing29" /></div>  
+<br>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=realing29&show_icons=true&locale=en" alt="realing29" /></div>  
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realing29&" alt="realing29" /></p>
 
 <!---
