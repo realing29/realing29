@@ -4,7 +4,12 @@
 - 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on work as a developer
 - 📫 How to reach me realing29@gmail.com
-<p align="left"><img src="https://www.codewars.com/users/realing29/badges/large" alt="codewars-stats" /> </p>
+
+<p align="left">
+  <a href="https://www.codewars.com/users/realing29" target="blank">
+    <img src="https://www.codewars.com/users/realing29/badges/large" alt="codewars-stats" /> 
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
