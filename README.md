@@ -14,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://t.me/realing29" target="blank"><img align="center" src="https://www.svgrepo.com/show/354443/telegram.svg" alt="@realing29" height="30" width="40" /></a>
-  <p align="left">
   <a href="https://discordapp.com/users/443095421506551809" target="blank"><img align="center" src="https://www.svgrepo.com/show/331368/discord-v2.svg" alt="@realing29" height="30" width="40" /></a>
 </p>
 
