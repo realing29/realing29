@@ -15,7 +15,7 @@
 <p align="left">
   <a href="https://t.me/realing29" target="_blank"><img align="center" src="https://www.svgrepo.com/show/354443/telegram.svg" alt="@realing29" height="30" width="40" /></a>
   <a href="https://discordapp.com/users/443095421506551809" target="_blank"><img align="center" src="https://www.svgrepo.com/show/331368/discord-v2.svg" alt="@realing29" height="30" width="40" /></a>
-  <a href="mailto:realing29@gmail.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="@realing29" height="30" width="40" /></a>
+  <a href="mailto:realing29@gmail.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/217146/gmail.svg" alt="@realing29" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
