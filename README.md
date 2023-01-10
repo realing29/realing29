@@ -43,7 +43,7 @@
 
 <p>
 <h3 align="left">My active project:</h3>
-<a href="http://buy-things.ru/">Buy Things</a> - Интернет магазин домашних товаров
+<a href="http://buy-things.ru/">Buy Things</a> - Интернет магазин домашних товаров. <a href="https://github.com/realing29/score">Исходный код</a>
 </p>
 
 <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=realing29&show_icons=true&locale=en&layout=compact" alt="realing29" /></div>  
