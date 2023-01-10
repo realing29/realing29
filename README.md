@@ -41,6 +41,11 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
 </p>
 
+<p>
+<h3 align="left">My active project:</h3>
+<a href="http://buy-things.ru/">Buy Things</a> - Интернет магазин домашних товаров
+</p>
+
 <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=realing29&show_icons=true&locale=en&layout=compact" alt="realing29" /></div>  
 <br>
 <div><img align="center" src="https://github-readme-stats.vercel.app/api?username=realing29&show_icons=true&locale=en" alt="realing29" /></div>  
