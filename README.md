@@ -47,7 +47,7 @@
 <a href="http://buy-things.ru/">Buy Things</a> - Интернет магазин домашних товаров. <a href="https://github.com/realing29/score">Репозиторий</a>
 </p>
 
-<h3 align="left">Some works</h3>
+<h3 align="left">Highlights</h3>
 <p>
 <a href="https://github.com/GrigoryGerasimov/partial">Хакатон по React. Я в роли техлида</a>
 </p>
