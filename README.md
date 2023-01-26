@@ -2,7 +2,6 @@
 
 - 👀 I’m interested in upgrade development skils
 - 🌱 I’m currently learning frontend development
-- 💞️ I’m looking work as a developer
 - 📫 How to reach me realing29@gmail.com
 
 <p align="left">
