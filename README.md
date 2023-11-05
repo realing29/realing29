@@ -40,11 +40,12 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
 </p>
 
-
+<!---
 <h3 align="left">My active project:</h3>
 <p>
 <a href="http://buy-things.ru/">Buy Things</a> - Интернет магазин домашних товаров. <a href="https://github.com/realing29/score">Репозиторий</a>
 </p>
+--->
 
 <h3 align="left">Highlights</h3>
 <p>
