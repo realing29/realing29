@@ -50,13 +50,13 @@
 
 <h3 align="left">Activities</h3>
 <p>
-<a href="https://github.com/GrigoryGerasimov/partial">Хакатон по React. Я в роли техлида</a>
+<a href="https://github.com/GrigoryGerasimov/partial">Хакатон по React. В роли техлида</a>
 </p>
 <p>
-<a href="https://github.com/realing29/01-hackathon">Хакатон по javascript. Я в роли тимлида</a>
+<a href="https://github.com/realing29/01-hackathon">Хакатон по javascript. В роли тимлида</a>
 </p>
 <p>
-<a href="https://github.com/realing29/nuxt-blog">Изучал курс по Nuxt</a>
+<a href="https://github.com/realing29/nuxt-blog">Курс по Nuxt</a>
 </p>
 <p>
 
