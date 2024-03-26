@@ -2,7 +2,7 @@
 
 - 🌱 I’m frontend development
 - 👀 I’m interested in applying development skils
-- 📫 How to reach me <a href="mailto:realing29@gmail.com">realing29@gmail.com</a> <a href="https://t.me/realing29">telegram</a>
+- 📫 How to reach me <a href="mailto:realing29@gmail.com">realing29@gmail.com</a> and <a href="https://t.me/realing29">telegram</a>
 
 <p align="left">
   <a href="https://www.codewars.com/users/realing29" target="blank">
