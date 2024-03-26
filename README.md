@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m Василаки Роман </h1>
 
-- 👀 I’m interested in applying development skils
 - 🌱 I’m frontend development
+- 👀 I’m interested in applying development skils
 - 📫 How to reach me realing29@gmail.com
 
 <p align="left">
