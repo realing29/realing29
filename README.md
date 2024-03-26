@@ -2,7 +2,7 @@
 
 - 🌱 I’m frontend development
 - 👀 I’m interested in applying development skils
-- 📫 How to reach me realing29@gmail.com
+- 📫 How to reach me <a href="mailto:realing29@gmail.com">realing29@gmail.com</a> <a href="https://t.me/realing29">telegram</a>
 
 <p align="left">
   <a href="https://www.codewars.com/users/realing29" target="blank">
@@ -48,7 +48,7 @@
 </p>
 --->
 
-<h3 align="left">Highlights</h3>
+<h3 align="left">Activities</h3>
 <p>
 <a href="https://github.com/GrigoryGerasimov/partial">Хакатон по React. Я в роли техлида</a>
 </p>
@@ -59,9 +59,6 @@
 <a href="https://github.com/realing29/nuxt-blog">Изучал курс по Nuxt</a>
 </p>
 <p>
-<a href="https://realing29.github.io/Mars/">Раняя работа - верстка</a>. <a href="https://github.com/realing29/Mars">Репозиторий</a>
-</p>
-<p>Есть приватные проекты, для демонстрации пишите в <a href="https://t.me/realing29">telegram</a></p>
 
 <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=realing29&show_icons=true&locale=en&layout=compact" alt="realing29" /></div>  
 <br>
