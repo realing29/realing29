@@ -17,31 +17,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,redux,docker,git,js,html,css,sass,bootstrap,nodejs,mongodb,firebase,postgres,webpack,gulp,heroku,ps,express,nextjs&perline=20)](https://skillicons.dev)
-
-<!---
-<h3 align="left">My active project:</h3>
-<p>
-<a href="http://buy-things.ru/">Buy Things</a> - Интернет магазин домашних товаров. <a href="https://github.com/realing29/score">Репозиторий</a>
-</p>
---->
-
-<h3 align="left">Activities</h3>
-<p>
-<a href="https://github.com/GrigoryGerasimov/partial">Хакатон по React. В роли техлида</a>
-</p>
-<p>
-<a href="https://github.com/realing29/01-hackathon">Хакатон по javascript. В роли тимлида</a>
-</p>
-<p>
-<a href="https://github.com/realing29/nuxt-blog">Курс по Nuxt</a>
-</p>
-<p>
-
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,docker,git,js,html,css,sass,vite,vitest,bun,postman,nodejs,nginx,ai,figma,electron,vscode,webstorm,bootstrap,mongodb,firebase,postgres,webpack,gulp,heroku,ps,express&perline=20)](https://skillicons.dev)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realing29&" alt="realing29" /></p>
-
-<!---
-realing29/realing29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
