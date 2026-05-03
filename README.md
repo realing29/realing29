@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m Василаки Роман </h1>
 
 - 🌱 I’m frontend development
-- 👀 I’m interested in applying development skils
+- 👀 I'm interested in creating very cool products
 
 <p align="left">
   <a href="https://www.codewars.com/users/realing29" target="blank">
@@ -17,7 +17,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,redux,docker,git,js,ts,html,css,sass,bootstrap,nodejs,mongodb,firebase,postgres,webpack,gulp,heroku,ps,express,nextjs&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,docker,git,js,html,css,sass,bootstrap,nodejs,mongodb,firebase,postgres,webpack,gulp,heroku,ps,express,nextjs&perline=20)](https://skillicons.dev)
 
 <!---
 <h3 align="left">My active project:</h3>
@@ -38,10 +38,7 @@
 </p>
 <p>
 
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=realing29&show_icons=true&locale=en&layout=compact" alt="realing29" /></div>  
-<br>
-<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=realing29&show_icons=true&locale=en" alt="realing29" /></div>  
-<br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realing29&" alt="realing29" /></p>
 
 <!---
